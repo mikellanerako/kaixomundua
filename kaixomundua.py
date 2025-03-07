@@ -1,1 +1,1 @@
-print("Kaixo mundua")
+print("Kaixo mundua editatu berri")
