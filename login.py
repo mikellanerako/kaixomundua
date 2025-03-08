@@ -1,1 +1,1 @@
-print("Hemen logina doa")
+print("Bukatu dugu loginaren inplementazioa")
