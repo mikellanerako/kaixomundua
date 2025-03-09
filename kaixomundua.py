@@ -1,1 +1,1 @@
-print("Kaixo mundua editatu berri")
+print("mikellanerako erabiltzaileak editatu du")
