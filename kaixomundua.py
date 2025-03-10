@@ -1,1 +1,1 @@
-print("mikellanerako erabiltzaileak editatu du")
+print("mikellanerako erabiltzaileak editatu du v2")
